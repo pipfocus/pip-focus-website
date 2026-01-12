@@ -70,14 +70,23 @@ This is the main development repository for Pip Focus. The source code is privat
 - **Main Repo** (this repo): Private development repository containing source code
 - **Website Repo**: [pipfocus/website](https://github.com/pipfocus/website) - Public repository with minified website and documentation
 
-### Automatic Deployment
+### Deployment
 
-The website is automatically built and deployed to the public website repository on every push to `main` via GitHub Actions. See [`.github/workflows/README.md`](.github/workflows/README.md) for setup instructions.
+Website deployment is handled locally. To deploy:
+
+```bash
+npm run deploy-website
+# or
+git push-deploy
+```
+
+This will push to git and deploy the website to the `pipfocus/website` repository.
 
 ### Building
 
 - **Extension**: `npm run preview` or `npm run deploy`
 - **Website**: `npm run build-website` (outputs to `website-dist/`)
+- **Deploy Website**: `npm run deploy-website` (builds and deploys)
 
 ## License
 

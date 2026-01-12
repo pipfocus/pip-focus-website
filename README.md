@@ -16,6 +16,9 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 <a href="https://twitter.com/pip_focus">
   <img src="https://img.shields.io/badge/Twitter-@pip_focus-1DA1F2?logo=twitter" alt="Twitter">
 </a>
+<a href="https://instagram.com/pip_focus">
+  <img src="https://img.shields.io/badge/Instagram-@pip_focus-E4405F?logo=instagram" alt="Instagram">
+</a>
 
 ## Screenshots
 
@@ -46,7 +49,7 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 
 **Manual**: Download from Chrome Web Store or contact support for installation instructions.
 
-**Follow**: [@pip_focus](https://twitter.com/pip_focus) on Twitter
+**Follow**: [@pip_focus](https://twitter.com/pip_focus) on Twitter | [@pip_focus](https://instagram.com/pip_focus) on Instagram
 
 ## Privacy
 

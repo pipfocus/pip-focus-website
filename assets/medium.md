@@ -35,4 +35,4 @@ Happy working 🙂
 
 ---
 
-[Website](https://pipfocus.github.io/website/) · [Get Pip Focus on Chrome Web Store](https://chromewebstore.google.com/detail/focus-mode/ijgbeipckbajgnkjgdhoponeenjdnimn)
+[Website](https://pipfocus.github.io/website/) · [Get Pip Focus on Chrome Web Store](https://chromewebstore.google.com/detail/fhebldbfcnngfbehfjolignpcelpgpod?utm_source=item-share-cb)

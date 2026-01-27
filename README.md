@@ -7,7 +7,7 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 <a href="https://pipfocus.github.io/website/">
   <img src="https://img.shields.io/badge/Website-Visit-8b5cf6" alt="Website">
 </a>
-<a href="https://chromewebstore.google.com/detail/focus-mode/ijgbeipckbajgnkjgdhoponeenjdnimn">
+<a href="https://chromewebstore.google.com/detail/fhebldbfcnngfbehfjolignpcelpgpod?utm_source=item-share-cb">
   <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome" alt="Chrome Web Store">
 </a>
 <a href="https://buymeacoffee.com/pipfocus">
@@ -45,7 +45,7 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 
 ## Install
 
-**Chrome Web Store**: [Install Pip Focus](https://chromewebstore.google.com/detail/focus-mode/ijgbeipckbajgnkjgdhoponeenjdnimn)
+**Chrome Web Store**: [Install Pip Focus](https://chromewebstore.google.com/detail/fhebldbfcnngfbehfjolignpcelpgpod?utm_source=item-share-cb)
 
 **Manual**: Download from Chrome Web Store or contact support for installation instructions.
 

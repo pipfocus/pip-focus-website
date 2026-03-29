@@ -7,28 +7,52 @@
 Pip Focus
 
 ## Summary (132 chars max - appears in search results)
-Block distracting websites instantly. One-click toggle, custom timers, focus stats with pattern hotspots. 100% free, private.
+Block distracting sites fast. Quick-start sessions, temporary passes, inactivity nudges, and clean local focus stats. Free & private.
 
 ## Description (for store listing)
 
-Block distracting websites instantly. One click to start, hold to disable. Set timers or block indefinitely. Track your focus with stats, pattern hotspots, and streaks.
+Block distracting websites in one click. Start a focus session instantly, hold to disable, and track your progress with local stats.
 
-**What it does:**
+**Core features:**
 
-• Block any website — YouTube, Twitter, Reddit, Instagram, TikTok, Facebook, or any site
-• One-click toggle — Turn focus mode on/off instantly. No setup needed
-• Hold to disable — Prevents accidental disabling during active sessions
-• Custom timers — 5 minutes to 2 hours, or block indefinitely
-• Focus stats — Daily, weekly, monthly charts with pattern hotspots showing your peak hours and weekly rhythm
-• Streak tracking — Current and best streak records
-• Smart URLs — Use wildcards (*youtube.com) for subdomains or exact URLs
-• Import/Export — Backup and restore your settings
+- Block any website — YouTube, Twitter, Reddit, Instagram, TikTok, Facebook, or any site you choose
+- One-click toggle with hold-to-disable — prevents accidental turn-off during active sessions
+- Timers from 5 minutes to 2 hours, custom duration, or infinite
+- Temporary pass from the blocked page (5m, 15m, 30m, 60m) without ending your session
+- Hold-to-reveal pass controls — reduces impulse unblocking
+- Smart URL rules — exact domain (`youtube.com`) or wildcard (`*youtube.com`) for subdomains
 
-**Privacy:**
+**Floating Pip icon:**
 
-No data collection, no accounts, no tracking. Everything stays on your device. 100% free, no premium tiers.
+- Quick-start a focus session from any page without opening the popup
+- Draggable — position anywhere, persisted across pages and sessions
+- Show on all pages, blocked pages only, or hide entirely
+- Adjustable size (XS–XL)
 
-Follow [@pip_focus](https://twitter.com/pip_focus) on Twitter and [@pip_focus](https://instagram.com/pip_focus) on Instagram for updates.
+**Inactivity nudges:**
+
+- Pip icon pulses gently after a stretch without focusing (configurable 1–7 days)
+- Desktop notifications after prolonged inactivity (3 / 5 / 7 / 14 days)
+- Hold the pulsing icon to snooze for 24 hours
+
+**Focus stats:**
+
+- Daily, weekly, all-time dashboard
+- GitHub-style consistency grid and 14-day trend sparkline
+- Peak hours heatstrip and weekly rhythm chart (90 days)
+- Week / month / year activity chart with average line
+- Session history with delete, jump-to-month, and manual session logging
+- Streak tracking — current and best
+
+**End-of-session chime:**
+
+- Audible notification when a timed session ends
+- Configurable repeat count (1–5) and custom MP3 upload
+
+**Data:**
+
+- Import / Export full JSON backup
+- 100% local — no tracking, no accounts, no external servers. Free.
 
 ---
 
@@ -45,10 +69,11 @@ English
 
 ## Screenshots Needed (1280x800 or 640x400)
 
-1. **Main popup** - Show the extension popup with blocking ON and "ACTIVE" state visible
-2. **Blocked page** - Show the blocked page overlay
-3. **Stats page** - Show the focus stats with charts
-4. **Adding a site** - Show typing a website into the input field
+1. **Main popup** — Blocking ON with countdown and site list visible
+2. **Blocked page** — Dark overlay with temporary pass controls revealed
+3. **Stats page** — Dashboard with charts, consistency grid, and patterns
+4. **Pip icon** — Floating icon on a real page with pulse active
+5. **Settings** — Settings page showing chime, icon, and nudge options
 
 ## Promotional Images
 
@@ -61,7 +86,7 @@ Dark gradient background with:
 Dark gradient background showing:
 - Extension popup screenshot
 - "Block distractions. Stay focused."
-- "Free & Open Source"
+- "Free & Private"
 
 ### Marquee Promo Tile (1400x560)
 Wide banner with:
@@ -75,31 +100,9 @@ Wide banner with:
 
 - [ ] Extension icon (128x128 PNG)
 - [ ] At least 1 screenshot (1280x800 or 640x400)
-- [ ] Small promo tile (440x280) - optional but recommended
+- [ ] Small promo tile (440x280) — optional but recommended
 - [ ] Description filled out
 - [ ] Category selected: Productivity
 - [ ] Privacy policy URL: https://pipfocus.github.io/website/PRIVACY.md
 - [ ] Support URL: https://pipfocus.github.io/website/
 - [ ] Website URL: https://pipfocus.github.io/website/
-
-## Privacy Policy (simple version for GitHub)
-
-Pip Focus does not collect, store, or transmit any personal data. All settings (blocked websites, preferences, stats) are stored locally in your browser using Chrome's storage API.
-
-This extension:
-- Does NOT collect analytics
-- Does NOT track browsing history  
-- Does NOT require an account
-- Does NOT communicate with external servers
-- Is fully open source
-
-## SEO Notes
-
-1. **Name includes primary keyword**: "Focus Timer & Website Blocker"
-2. **Summary is scannable**: Key features separated by periods
-3. **Description tells a story**: Relatable problem → solution
-4. **Popular sites mentioned**: YouTube, Twitter, Reddit, Instagram, TikTok, Facebook
-5. **Use cases clear**: Remote work, studying, digital detox
-6. **Free emphasized**: Multiple mentions, no premium tiers
-7. **Privacy highlighted**: Important trust signal
-8. **Natural keyword integration**: Not stuffed, flows naturally

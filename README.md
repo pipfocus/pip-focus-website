@@ -32,61 +32,31 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 
 ## Features
 
-- **One-click blocking** — Toggle focus mode instantly
-- **Custom block list** — Block any website (YouTube, Twitter, Reddit, etc.)
-- **Flexible timers** — 5min to 2hrs, custom duration, or infinite
-- **Focus stats** — Track daily, weekly, monthly focus time
-- **Streak tracking** — See current and best focus streaks
-- **Hold to disable** — Prevents accidental turn-off during sessions
-- **Smart blocking** — `youtube.com` blocks exact domain only, `*youtube.com` blocks all subdomains (so you can still use music.youtube.com)
-- **Minimal block page** — Clean overlay, no distractions
-- **Import/Export** — Backup and restore your settings and stats
-- **100% private** — No data collection, no tracking, no ads, fully local
+- **One-click blocking** — Toggle focus mode on with hold-to-disable safety
+- **Floating Pip icon** — Quick-start sessions from any page; draggable, zoom-aware, persisted position
+- **Temporary passes** — Allow a blocked site for 5–60 minutes without ending your session
+- **Inactivity nudges** — Gentle pulse and desktop notifications after days without focusing
+- **Focus stats** — Consistency grid, peak hours, weekly rhythm, streaks, and full session history
+- **Flexible timers** — 5m to 2h, custom duration, or infinite
+- **End-of-session chime** — Audible alert with configurable repeat and custom MP3
+- **Smart URL rules** — Exact domain or wildcard for subdomains
+- **Import / Export** — Full JSON backup of sites, sessions, stats, and settings
+- **100% private** — No data collection, no tracking, no ads, no external servers
 
 ## Install
 
 **Chrome Web Store**: [Install Pip Focus](https://chromewebstore.google.com/detail/fhebldbfcnngfbehfjolignpcelpgpod?utm_source=item-share-cb)
-
-**Manual**: Download from Chrome Web Store or contact support for installation instructions.
 
 **Follow**: [@pip_focus](https://twitter.com/pip_focus) on Twitter | [@pip_focus](https://instagram.com/pip_focus) on Instagram
 
 ## Privacy
 
 - No data collection or analytics
-- No ads
+- No ads or accounts
 - No external servers
 - 100% local storage
-- Open source
 
 [Full Privacy Policy](PRIVACY.md)
-
-## Development
-
-This is the main development repository for Pip Focus. The source code is private, but the extension is fully open source in spirit.
-
-### Repository Structure
-
-- **Main Repo** (this repo): Private development repository containing source code
-- **Website Repo**: [pipfocus/website](https://github.com/pipfocus/website) - Public repository with minified website and documentation
-
-### Deployment
-
-Website deployment is handled locally. To deploy:
-
-```bash
-npm run deploy-website
-# or
-git push-deploy
-```
-
-This will push to git and deploy the website to the `pipfocus/website` repository.
-
-### Building
-
-- **Extension**: `npm run preview` or `npm run deploy`
-- **Website**: `npm run build-website` (outputs to `website-dist/`)
-- **Deploy Website**: `npm run deploy-website` (builds and deploys)
 
 ## License
 
